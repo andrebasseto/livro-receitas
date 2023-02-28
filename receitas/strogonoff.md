@@ -8,3 +8,4 @@
 
 ### Modo de preparo
 
+- fritar
